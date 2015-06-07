@@ -24,17 +24,15 @@ Additions welcome via issues or _pull requests_.
 
 - Data Analysis
 
-  - ggplot2 / R / scipy
+  - ggplot2 / R
 
     Needs a good viz story. Diagrams exists, but something that renders instantly in a quartz window like R would be ideal. Seems to require more schlepping in Haskell right now as well.
 
   - Side-by-side tutorial of, "How to do this in R" -> " How to do this in Haskell"
 
-
-
-
 - ~~Signal Processing~~
   - [dsp](https://hackage.haskell.org/package/dsp)
+
 - ~~Linear Algebra~~
   - [hmatrix](http://hackage.haskell.org/package/hmatrix)
   - [linear](http://hackage.haskell.org/package/linear)
