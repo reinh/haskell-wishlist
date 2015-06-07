@@ -32,9 +32,9 @@ Additions welcome via issues or _pull requests_.
   - [diagrams](https://hackage.haskell.org/package/diagrams)
   - [Chart](https://hackage.haskell.org/package/Chart)
 
-- ~~Signal Processing~~
+- Signal Processing
   - [dsp](https://hackage.haskell.org/package/dsp)
 
-- ~~Linear Algebra~~
+- Linear Algebra
   - [hmatrix](http://hackage.haskell.org/package/hmatrix)
   - [linear](http://hackage.haskell.org/package/linear)
