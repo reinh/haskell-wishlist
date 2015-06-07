@@ -5,20 +5,9 @@ Additions welcome via issues or _pull requests_.
 
 ## TOC
 
-- [Data Analysis](#data-analysis)
 - [Distributed Systems](#distributed-systems)
 - [Machine Learning](#machine-learning)
 - [Numeric and Scientific Computing](#numeric-and-scientific-computing)
-
-
-## Data Analysis
-
-### ggplot2 / R / scipy
-
-- Needs a good viz story. Diagrams exists, but something that renders instantly in a quartz window like R would be ideal. Seems to require more schlepping in Haskell right now as well.
-
-- Side-by-side tutorial of, "How to do this in R" -> " How to do this in Haskell"
-
 
 ## Distributed Systems
 
@@ -32,6 +21,17 @@ Additions welcome via issues or _pull requests_.
 - Incremental algorithms for classification, regression, ranking, or combined regression and ranking (e.g., [sofia-ml](https://code.google.com/p/sofia-ml/))
 
 ## Numeric and Scientific Computing
+
+- Data Analysis
+
+  - ggplot2 / R / scipy
+
+    Needs a good viz story. Diagrams exists, but something that renders instantly in a quartz window like R would be ideal. Seems to require more schlepping in Haskell right now as well.
+
+  - Side-by-side tutorial of, "How to do this in R" -> " How to do this in Haskell"
+
+
+
 
 - ~~Signal Processing~~
   - [dsp](https://hackage.haskell.org/package/dsp)
