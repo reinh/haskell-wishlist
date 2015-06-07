@@ -11,6 +11,8 @@ Additions welcome via issues or _pull requests_.
 ## Distributed Systems
 
 - Virtual Synchrony
+- ~~Raft consensus algorithm~~
+  - [kontiki](https://github.com/NicolasT/kontiki)
 
 ## Machine Learning
 
