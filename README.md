@@ -28,7 +28,7 @@ Additions welcome via issues or _pull requests_.
 
     Needs a good viz story. Diagrams exists, but something that renders instantly in a quartz window like R would be ideal. Seems to require more schlepping in Haskell right now as well.
 
-  - Side-by-side tutorial of, "How to do this in R" -> " How to do this in Haskell"
+  - Side-by-side tutorial of "How to do this in R" vs. " How to do this in Haskell"
 
 - ~~Signal Processing~~
   - [dsp](https://hackage.haskell.org/package/dsp)
