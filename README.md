@@ -22,19 +22,28 @@ Additions welcome via issues or _pull requests_.
 
 ## Numeric and Scientific Computing
 
-- Data Analysis
+### Data Analysis
 
-  - ggplot2 / R
+- IPython-like ghci repl for analysis and authoring
+  - [iHaskell](https://github.com/gibiansky/IHaskell)
 
-    Needs a good viz story. Diagrams exists, but something that renders instantly in a quartz window like R would be ideal. Seems to require more schlepping in Haskell right now as well.
+- ggplot2 / R
 
-  - Side-by-side tutorial of "How to do this in R" vs. " How to do this in Haskell"
+  Needs a good viz story. Diagrams exists, but something that
+  renders instantly in a quartz window like R would be ideal. Seems
+  to require more schlepping in Haskell right now as well.
+
+  Side-by-side tutorial of "How to do this in R" vs. " How to do
+  this in Haskell"
+
   - [diagrams](https://hackage.haskell.org/package/diagrams)
   - [Chart](https://hackage.haskell.org/package/Chart)
 
-- Signal Processing
-  - [dsp](https://hackage.haskell.org/package/dsp)
+### Signal Processing
 
-- Linear Algebra
-  - [hmatrix](http://hackage.haskell.org/package/hmatrix)
-  - [linear](http://hackage.haskell.org/package/linear)
+- [dsp](https://hackage.haskell.org/package/dsp)
+
+### Linear Algebra
+
+- [hmatrix](http://hackage.haskell.org/package/hmatrix)
+- [linear](http://hackage.haskell.org/package/linear)
