@@ -1,19 +1,49 @@
 # haskell-wishlist
+
 A curated wishlist of Haskell libraries, packages, and tools.
 Additions welcome via issues or _pull requests_.
 
 ## TOC
 
+- [Distributed Systems](#distributed-systems)
 - [Machine Learning](#machine-learning)
-- [Data Analysis](#data-analysis)
-- [User Interface](#ui)
+- [Numeric and Scientific Computing](#numeric-and-scientific-computing)
+
+## Distributed Systems
+
+- Virtual Synchrony
+- ~~Raft consensus algorithm~~
+  - [kontiki](https://github.com/NicolasT/kontiki)
+
 
 ## Machine Learning
 
 - Incremental algorithms for classification, regression, ranking, or combined regression and ranking (e.g., [sofia-ml](https://code.google.com/p/sofia-ml/))
 
-## Data Analysis
-- IPython-like ghci repl for analysis and authoring
+## Numeric and Scientific Computing
 
-## User Interface
-- A Haskell-configurable WM (like, or maybe even actually XMonad) with combined editor, terminal emulator, etc. (for sharing semantics across different applications, splitting a browser window should be no different from splitting a terminal window.)
+### Data Analysis
+
+- IPython-like ghci repl for analysis and authoring
+  - [iHaskell](https://github.com/gibiansky/IHaskell)
+
+- ggplot2 / R
+
+  Needs a good viz story. Diagrams exists, but something that
+  renders instantly in a quartz window like R would be ideal. Seems
+  to require more schlepping in Haskell right now as well.
+
+  Side-by-side tutorial of "How to do this in R" vs. " How to do
+  this in Haskell"
+
+  - [diagrams](https://hackage.haskell.org/package/diagrams)
+  - [Chart](https://hackage.haskell.org/package/Chart)
+
+### Signal Processing
+
+- [dsp](https://hackage.haskell.org/package/dsp)
+
+### Linear Algebra
+
+- [hmatrix](http://hackage.haskell.org/package/hmatrix)
+- [linear](http://hackage.haskell.org/package/linear)
