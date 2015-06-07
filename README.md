@@ -1,5 +1,6 @@
 # haskell-wishlist
-A curated wishlist of Haskell libraries, packages, and tools
+A curated wishlist of Haskell libraries, packages, and tools.
+Additions welcome via issues or _pull requests_.
 
 ## TOC
 
