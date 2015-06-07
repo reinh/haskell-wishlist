@@ -4,7 +4,12 @@ Additions welcome via issues or _pull requests_.
 
 ## TOC
 
+- [Distributed Systems](#distributed-systems)
 - [Machine Learning](#machine-learning)
+
+## Distributed Systems
+
+- Virtual Synchrony
 
 ## Machine Learning
 
